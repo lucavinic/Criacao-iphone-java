@@ -1,4 +1,2 @@
-#Funcionalidades básicas de um Iphone
--Navegar na internet
--Reprodução musical
--Ligação
+# Iphone_java
+Funcionalidades de um Iphone(Navegador, Reprodutor e Ligação)
